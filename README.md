@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Vue**
 
-- 📝 I regularly write articles on [blog.trozure.uk](blog.trozure.uk)
+- 📝 I regularly write articles on [blog.trozure.uk](https://blog.trozure.uk)
 
 - 📫 How to reach me **pineehuang@icloud.com**
 
