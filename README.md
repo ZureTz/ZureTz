@@ -26,3 +26,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=zuretz&" alt="zuretz" /></p>
 
+<figure><embed src="https://wakatime.com/share/@46bdb139-86b0-4e34-9c9a-89c3c6dcffd1/f85d96f8-a1ee-438e-939f-e0c265db157a.svg"></embed></figure>
+
+<figure><embed src="https://wakatime.com/share/@46bdb139-86b0-4e34-9c9a-89c3c6dcffd1/73b9711f-7069-437f-b770-f654cfdc6c95.svg"></embed></figure>
