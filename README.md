@@ -1,68 +1,56 @@
-<h1 align="center">Hi 👋, I'm ZureTz</h1>
-<h3 align="center">A passionate Full Stack developer from China</h3>
+# Hi 👋, I'm ZureTz
+
+> A passionate Full Stack developer from China
+
+<div align="center">
 
 [![wakatime](https://wakatime.com/badge/user/46bdb139-86b0-4e34-9c9a-89c3c6dcffd1.svg)](https://wakatime.com/@46bdb139-86b0-4e34-9c9a-89c3c6dcffd1)
+![Profile Views](https://komarev.com/ghpvc/?username=ZureTz&color=blueviolet)
+![Followers](https://img.shields.io/github/followers/ZureTz?label=Followers&style=social)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=zuretz" alt="zuretz" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy-gray-nine.vercel.app/?username=zuretz&theme=onedark&no-frame=true&column=7&margin-w=15&margin-h=15" alt="zuretz" />
+</a>
 
-- 🌱 I’m currently learning **Go**
+</div>
 
+---
+
+- 🌱 I’m currently learning **Go, Svelte**
 - 📝 I regularly write articles on [blog.trozure.uk](https://blog.trozure.uk)
-
 - 📫 How to reach me **pineehuang@icloud.com**
-
 - ⚡ Fun fact **FURRY!**
 
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="center">
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-  </a>
-  <a href="https://golang.org/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original-wordmark.svg" alt="go" width="40" height="40"/>
-  </a>
-  <a href="https://react.dev/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40"/>
-  </a>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-  </a>
-  <a href="https://hexo.io/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/hexoio/hexoio-icon.svg" alt="hexo" width="40" height="40"/>
-  </a>
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
-  </a>
-</p>
+### 🛠 Languages and Tools
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=zuretz&show_icons=true&locale=en&layout=compact" alt="zuretz" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api?username=zuretz&show_icons=true&locale=en" alt="zuretz" />
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=zuretz&" alt="zuretz" />
-</p>
+<div align="center">
 
-<p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/wakatime?username=zuretz&layout=compact" alt="ZureTz's WakaTime stats" />
-  </a>
-</p>
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Svelte](https://img.shields.io/badge/svelte-%23f1413d.svg?style=for-the-badge&logo=svelte&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Hexo](https://img.shields.io/badge/hexo-%230E83CD.svg?style=for-the-badge&logo=hexo&logoColor=white)
+
+</div>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats-six-omega-69.vercel.app/api?username=ZureTz&show_icons=true&locale=en&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" alt="ZureTz's GitHub stats" />
+  <img src="https://github-readme-streak-stats-kappa-swart.vercel.app?user=ZureTz&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats-six-omega-69.vercel.app/api/top-langs?username=ZureTz&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=20" alt="Top Languages" />
+  <img src="https://github-readme-stats-six-omega-69.vercel.app/api/wakatime?username=ZureTz&layout=compact&theme=tokyonight&hide_border=true"alt="WakaTime Stats" />
+</div>
