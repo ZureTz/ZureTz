@@ -45,6 +45,8 @@
 
 ### 📊 GitHub Stats
 
+<div align="center">
+
 ![ZureTz's GitHub stats](https://github-readme-stats-six-omega-69.vercel.app/api?username=ZureTz&show_icons=true&locale=en&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true")
 
 ![GitHub Streak](https://github-readme-streak-stats-kappa-swart.vercel.app?user=ZureTz&theme=tokyonight&hide_border=true)
@@ -52,3 +54,5 @@
 ![Top Languages](https://github-readme-stats-six-omega-69.vercel.app/api/top-langs?username=ZureTz&layout=donut-vertical&theme=tokyonight&hide_border=true&langs_count=20)
 
 ![WakaTime Stats](https://github-readme-stats-six-omega-69.vercel.app/api/wakatime?username=ZureTz&layout=compact&theme=tokyonight&hide_border=true)
+
+</div>
