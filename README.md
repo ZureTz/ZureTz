@@ -52,6 +52,6 @@
   
 ![Top Languages](https://github-readme-stats-six-omega-69.vercel.app/api/top-langs?username=ZureTz&&exclude_repo=github-readme-streak-stats,github-readme-stats,github-profile-trophy&layout=donut&theme=tokyonight&hide_border=true&langs_count=20)
 
-![WakaTime Stats](https://github-readme-stats-six-omega-69.vercel.app/api/wakatime?username=ZureTz&layout=compact&theme=tokyonight&hide_border=true)
+![WakaTime Stats](https://github-readme-stats-six-omega-69.vercel.app/api/wakatime?username=ZureTz&layout=compact&theme=tokyonight&hide_border=true&hide=Other)
 
 </div>
